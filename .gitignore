@@ -1,0 +1,20 @@
+# Ignore Python & virtualenv
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.env
+
+# Ignore test logs and output
+logs/
+output/
+*.log
+
+# Ignore Java/IDE/project files
+*.class
+.idea/
+target/
+.DS_Store
+
+# Ignore binaries
+chromedriver.exe

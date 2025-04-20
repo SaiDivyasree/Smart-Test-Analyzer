@@ -1,0 +1,301 @@
+error_log_text,root_cause
+InvalidSelectorException: The given selector '##logout' is not valid,locator_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+NavigationTimeoutException: Page load timed out,navigation_issue
+NoSuchElementException: Cannot locate element with id 'email',locator_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+TimeoutException: Waiting for visibility of element 'submit' timed out,wait_issue
+NoSuchElementException: Cannot locate element with id 'username',locator_issue
+ElementNotVisibleException: Element 'logout' is not visible after wait,wait_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+ElementNotInteractableException: Element 'username' could not be interacted with,flaky
+JavascriptException: error executing script in browser,env_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+TimeoutException: Waiting for visibility of element 'searchBox' timed out,wait_issue
+ElementNotInteractableException: Element 'logout' could not be interacted with,flaky
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+SessionNotCreatedException: session ID is null,env_issue
+JavascriptException: error executing script in browser,env_issue
+ElementNotInteractableException: Element 'email' could not be interacted with,flaky
+UnknownError: Random JavaScript failure occurred,flaky
+ElementNotVisibleException: Element 'loginBtn' is not visible after wait,wait_issue
+InvalidSelectorException: The given selector '##submit' is not valid,locator_issue
+TimeoutException: Waiting for visibility of element 'username' timed out,wait_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+TimeoutException: Waiting for visibility of element 'username' timed out,wait_issue
+UnknownError: Random JavaScript failure occurred,flaky
+NoSuchElementException: Cannot locate element with id 'username',locator_issue
+NoSuchElementException: Cannot locate element with id 'loginBtn',locator_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+ElementNotInteractableException: Element 'submit' could not be interacted with,flaky
+NoSuchElementException: Cannot locate element with id 'loginBtn',locator_issue
+UnknownError: Random JavaScript failure occurred,flaky
+SessionNotCreatedException: session ID is null,env_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+StaleElementReferenceException: The element with id 'username' is no longer attached to the DOM,locator_issue
+500 Internal Server Error: GET /api/v1/data,env_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+JavascriptException: error executing script in browser,env_issue
+JavascriptException: error executing script in browser,env_issue
+ElementNotInteractableException: Element 'username' could not be interacted with,flaky
+JavascriptException: error executing script in browser,env_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+WebDriverException: chrome not reachable,env_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+JavascriptException: error executing script in browser,env_issue
+WebDriverException: chrome not reachable,env_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+NoSuchElementException: Cannot locate element with id 'submit',locator_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+ElementNotVisibleException: Element 'logout' is not visible after wait,wait_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+TimeoutException: Waiting for visibility of element 'username' timed out,wait_issue
+InvalidSelectorException: The given selector '##email' is not valid,locator_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+SessionNotCreatedException: session ID is null,env_issue
+InvalidSelectorException: The given selector '##searchBox' is not valid,locator_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+JavascriptException: error executing script in browser,env_issue
+500 Internal Server Error: GET /api/v3/data,env_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+WebDriverException: chrome not reachable,env_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+StaleElementReferenceException: The element with id 'logout' is no longer attached to the DOM,locator_issue
+NoSuchElementException: Cannot locate element with id 'email',locator_issue
+UnknownError: Random JavaScript failure occurred,flaky
+NavigationTimeoutException: Page load timed out,navigation_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+InvalidSelectorException: The given selector '##username' is not valid,locator_issue
+TimeoutException: Waiting for visibility of element 'searchBox' timed out,wait_issue
+StaleElementReferenceException: The element with id 'submit' is no longer attached to the DOM,locator_issue
+InvalidSelectorException: The given selector '##logout' is not valid,locator_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+JavascriptException: error executing script in browser,env_issue
+ElementNotInteractableException: Element 'username' could not be interacted with,flaky
+SessionNotCreatedException: session ID is null,env_issue
+UnknownError: Random JavaScript failure occurred,flaky
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+NoSuchElementException: Cannot locate element with id 'logout',locator_issue
+UnknownError: Random JavaScript failure occurred,flaky
+500 Internal Server Error: GET /api/v2/data,env_issue
+500 Internal Server Error: GET /api/v1/data,env_issue
+500 Internal Server Error: GET /api/v1/data,env_issue
+JavascriptException: error executing script in browser,env_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+NavigationTimeoutException: Page load timed out,navigation_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+500 Internal Server Error: GET /api/v2/data,env_issue
+SessionNotCreatedException: session ID is null,env_issue
+ElementNotInteractableException: Element 'username' could not be interacted with,flaky
+SessionNotCreatedException: session ID is null,env_issue
+InvalidSelectorException: The given selector '##email' is not valid,locator_issue
+InvalidSelectorException: The given selector '##logout' is not valid,locator_issue
+ElementNotInteractableException: Element 'logout' could not be interacted with,flaky
+UnhandledAlertException: Unexpected alert open,navigation_issue
+500 Internal Server Error: GET /api/v1/data,env_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+TimeoutException: Script execution exceeded 10s,wait_issue
+WebDriverException: chrome not reachable,env_issue
+ElementNotInteractableException: Element 'email' could not be interacted with,flaky
+UnknownError: Random JavaScript failure occurred,flaky
+TimeoutException: Waiting for visibility of element 'submit' timed out,wait_issue
+StaleElementReferenceException: The element with id 'submit' is no longer attached to the DOM,locator_issue
+ElementNotInteractableException: Element 'username' could not be interacted with,flaky
+NoSuchElementException: Cannot locate element with id 'email',locator_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+ElementNotInteractableException: Element 'username' could not be interacted with,flaky
+ElementNotVisibleException: Element 'username' is not visible after wait,wait_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+500 Internal Server Error: GET /api/v5/data,env_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+WebDriverException: chrome not reachable,env_issue
+JavascriptException: error executing script in browser,env_issue
+SessionNotCreatedException: session ID is null,env_issue
+500 Internal Server Error: GET /api/v2/data,env_issue
+TimeoutException: Waiting for visibility of element 'logout' timed out,wait_issue
+500 Internal Server Error: GET /api/v2/data,env_issue
+TimeoutException: Waiting for visibility of element 'loginBtn' timed out,wait_issue
+WebDriverException: chrome not reachable,env_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+ElementNotVisibleException: Element 'searchBox' is not visible after wait,wait_issue
+ElementNotVisibleException: Element 'logout' is not visible after wait,wait_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+NoSuchElementException: Cannot locate element with id 'email',locator_issue
+ElementNotVisibleException: Element 'email' is not visible after wait,wait_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+NoSuchElementException: Cannot locate element with id 'searchBox',locator_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+TimeoutException: Script execution exceeded 10s,wait_issue
+InvalidSelectorException: The given selector '##email' is not valid,locator_issue
+NoSuchElementException: Cannot locate element with id 'submit',locator_issue
+500 Internal Server Error: GET /api/v5/data,env_issue
+SessionNotCreatedException: session ID is null,env_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+ElementNotInteractableException: Element 'logout' could not be interacted with,flaky
+StaleElementReferenceException: The element with id 'loginBtn' is no longer attached to the DOM,locator_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+StaleElementReferenceException: The element with id 'logout' is no longer attached to the DOM,locator_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+ElementNotVisibleException: Element 'username' is not visible after wait,wait_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+WebDriverException: chrome not reachable,env_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+InvalidSelectorException: The given selector '##username' is not valid,locator_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+UnhandledAlertException: Unexpected alert open,navigation_issue
+StaleElementReferenceException: The element with id 'email' is no longer attached to the DOM,locator_issue
+InvalidSelectorException: The given selector '##submit' is not valid,locator_issue
+JavascriptException: error executing script in browser,env_issue
+StaleElementReferenceException: The element with id 'loginBtn' is no longer attached to the DOM,locator_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+ElementNotVisibleException: Element 'logout' is not visible after wait,wait_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+ElementNotInteractableException: Element 'email' could not be interacted with,flaky
+InvalidSelectorException: The given selector '##searchBox' is not valid,locator_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+ElementNotVisibleException: Element 'logout' is not visible after wait,wait_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+NoSuchElementException: Cannot locate element with id 'username',locator_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+UnknownError: Random JavaScript failure occurred,flaky
+NavigationTimeoutException: Page load timed out,navigation_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+ElementNotVisibleException: Element 'loginBtn' is not visible after wait,wait_issue
+ElementNotVisibleException: Element 'loginBtn' is not visible after wait,wait_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+ElementNotVisibleException: Element 'searchBox' is not visible after wait,wait_issue
+InvalidSelectorException: The given selector '##searchBox' is not valid,locator_issue
+ElementNotInteractableException: Element 'email' could not be interacted with,flaky
+StaleElementReferenceException: The element with id 'searchBox' is no longer attached to the DOM,locator_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+StaleElementReferenceException: The element with id 'searchBox' is no longer attached to the DOM,locator_issue
+UnknownError: Random JavaScript failure occurred,flaky
+StaleElementReferenceException: The element with id 'loginBtn' is no longer attached to the DOM,locator_issue
+InvalidSelectorException: The given selector '##logout' is not valid,locator_issue
+ElementNotInteractableException: Element 'submit' could not be interacted with,flaky
+TimeoutException: Script execution exceeded 10s,wait_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+NoSuchElementException: Cannot locate element with id 'submit',locator_issue
+NoSuchElementException: Cannot locate element with id 'submit',locator_issue
+StaleElementReferenceException: The element with id 'searchBox' is no longer attached to the DOM,locator_issue
+ElementNotInteractableException: Element 'submit' could not be interacted with,flaky
+JavascriptException: error executing script in browser,env_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+JavascriptException: error executing script in browser,env_issue
+TimeoutException: Waiting for visibility of element 'logout' timed out,wait_issue
+SessionNotCreatedException: session ID is null,env_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+JavascriptException: error executing script in browser,env_issue
+SessionNotCreatedException: session ID is null,env_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+InvalidSelectorException: The given selector '##logout' is not valid,locator_issue
+JavascriptException: error executing script in browser,env_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+TimeoutException: Waiting for visibility of element 'submit' timed out,wait_issue
+NoSuchElementException: Cannot locate element with id 'logout',locator_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+StaleElementReferenceException: The element with id 'submit' is no longer attached to the DOM,locator_issue
+ElementNotInteractableException: Element 'logout' could not be interacted with,flaky
+NavigationTimeoutException: Page load timed out,navigation_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+NoSuchElementException: Cannot locate element with id 'username',locator_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+NoSuchElementException: Cannot locate element with id 'email',locator_issue
+TimeoutException: Waiting for visibility of element 'searchBox' timed out,wait_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+WebDriverException: chrome not reachable,env_issue
+UnknownError: Random JavaScript failure occurred,flaky
+UnhandledAlertException: Unexpected alert open,navigation_issue
+UnknownError: Random JavaScript failure occurred,flaky
+ElementNotVisibleException: Element 'email' is not visible after wait,wait_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+JavascriptException: error executing script in browser,env_issue
+UnknownError: Random JavaScript failure occurred,flaky
+TimeoutException: Waiting for visibility of element 'email' timed out,wait_issue
+StaleElementReferenceException: The element with id 'submit' is no longer attached to the DOM,locator_issue
+WebDriverException: chrome not reachable,env_issue
+InvalidSelectorException: The given selector '##submit' is not valid,locator_issue
+500 Internal Server Error: GET /api/v5/data,env_issue
+JavascriptException: error executing script in browser,env_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+ElementNotInteractableException: Element 'logout' could not be interacted with,flaky
+ElementNotVisibleException: Element 'logout' is not visible after wait,wait_issue
+TimeoutException: Waiting for visibility of element 'username' timed out,wait_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+NoSuchElementException: Cannot locate element with id 'searchBox',locator_issue
+WebDriverException: chrome not reachable,env_issue
+InvalidSelectorException: The given selector '##logout' is not valid,locator_issue
+ElementNotVisibleException: Element 'loginBtn' is not visible after wait,wait_issue
+NoSuchElementException: Cannot locate element with id 'searchBox',locator_issue
+TimeoutException: Waiting for visibility of element 'logout' timed out,wait_issue
+JavascriptException: error executing script in browser,env_issue
+UnknownError: Random JavaScript failure occurred,flaky
+500 Internal Server Error: GET /api/v5/data,env_issue
+JavascriptException: error executing script in browser,env_issue
+UnknownError: Random JavaScript failure occurred,flaky
+NoSuchElementException: Cannot locate element with id 'email',locator_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+ElementNotVisibleException: Element 'loginBtn' is not visible after wait,wait_issue
+ElementNotVisibleException: Element 'email' is not visible after wait,wait_issue
+InvalidSelectorException: The given selector '##submit' is not valid,locator_issue
+NoSuchElementException: Cannot locate element with id 'loginBtn',locator_issue
+WebDriverException: chrome not reachable,env_issue
+NoSuchElementException: Cannot locate element with id 'username',locator_issue
+NoSuchWindowException: Tried switching to a non-existent window,navigation_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+WebDriverException: chrome not reachable,env_issue
+JavascriptException: error executing script in browser,env_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+InvalidSelectorException: The given selector '##searchBox' is not valid,locator_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+InvalidSelectorException: The given selector '##username' is not valid,locator_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+SessionNotCreatedException: session ID is null,env_issue
+SessionNotCreatedException: session ID is null,env_issue
+StaleElementReferenceException: The element with id 'submit' is no longer attached to the DOM,locator_issue
+ElementNotVisibleException: Element 'logout' is not visible after wait,wait_issue
+TimeoutException: Waiting for visibility of element 'searchBox' timed out,wait_issue
+StaleElementReferenceException: The element with id 'email' is no longer attached to the DOM,locator_issue
+JavascriptException: error executing script in browser,env_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+TimeoutException: Waiting for visibility of element 'loginBtn' timed out,wait_issue
+SessionNotCreatedException: session ID is null,env_issue
+ElementClickInterceptedException: Element click intercepted by another element,flaky
+NavigationTimeoutException: Page load timed out,navigation_issue
+TimeoutException: Waiting for visibility of element 'logout' timed out,wait_issue
+SessionNotCreatedException: session ID is null,env_issue
+UnknownError: Random JavaScript failure occurred,flaky
+ElementNotVisibleException: Element 'username' is not visible after wait,wait_issue
+NavigationTimeoutException: Page load timed out,navigation_issue
+TimeoutException: Script execution exceeded 10s,wait_issue
+ElementNotVisibleException: Element 'loginBtn' is not visible after wait,wait_issue
+TimeoutException: Waiting for visibility of element 'username' timed out,wait_issue
+UnhandledAlertException: Unexpected alert open,navigation_issue
+StaleElementReferenceException: The element with id 'username' is no longer attached to the DOM,locator_issue

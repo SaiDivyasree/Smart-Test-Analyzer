@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Failure Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+</head>
+<body class="p-4">
+    <h1 class="mb-4">🧠 AI Test Failure Analyzer Dashboard</h1>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Test Name</th>
+                <th>Error Message</th>
+                <th>Location</th>
+                <th>Predicted Cause</th>
+                <th>Suggestion</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in table %}
+            <tr>
+                <td>{{ row.test_name }}</td>
+                <td>{{ row.error_log }}</td>
+                <td>{{ row.location }}</td>
+                <td>{{ row.predicted_cause }}</td>
+                <td class="{{ row.severity_class }}">{{ row.suggestion }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="mt-4">
+        <h6><b>Severity Legend:</b></h6>
+        <ul>
+            <li><span class="text-danger">🔴 Locator/critical issue</span></li>
+            <li><span class="text-warning">🟡 Wait/timeout issue</span></li>
+            <li><span class="text-primary">🔵 Flaky or popup issues</span></li>
+            <li><span class="text-muted">⚫ Environment/browser issues</span></li>
+            <li><span class="text-success">🟢 General suggestions</span></li>
+        </ul>
+    </div>
+</body>
+</html>
